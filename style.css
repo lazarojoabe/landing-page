@@ -69,6 +69,9 @@ body{
     font-size: 24px;
     color: #2f2325;
 }
+.conteudo-principal-escrito-botao:hover{
+    background-color: rgba(236, 214, 196, 0.53);
+}
 .conteudo-principal-imagem{
     height: 430px;
 }
@@ -82,4 +85,24 @@ body{
 .conteudo-secundario-titulo{
     border-top: 0.4px solid #fff2e7;
     padding-top: 48px;
+    font-family: 'Righteous', cursive;
+    color: #fff2e7;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+.conteudo-secundario-paragrafo{
+    font-family: 'Sarala', sans-serif;
+    font-weight: 300px;
+    color: #ecd6c4;
+    font-size: 18px;
+}
+.rodape{
+    border-top: 0.4px solid #fff2e7;
+    padding: 32px;
+}
+.rodape-imagem{
+    height: 48px;
+    display: block;
+    margin: auto;
 }
